@@ -197,7 +197,7 @@ body {
   display: table;
   height: 900px;
   width: 100%;
-  background: url(../img/lola.jpg) no-repeat center center fixed; 
+  background: url(../img/lola-cute.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -296,7 +296,7 @@ i.scroll:hover {
   }
 
   .lola {
-  background: url(../img/lola.jpg) no-repeat center center scroll; 
+  background: url(../img/lola-cute.jpg) no-repeat center center scroll; 
   }
 
   .map {
