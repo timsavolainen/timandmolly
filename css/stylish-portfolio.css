@@ -279,8 +279,24 @@ i.scroll:hover {
 	background: url(../img/bg.jpg) no-repeat center center scroll; 
   }
 
-  .callout {
-	background: url(../img/callout.jpg) no-repeat center center scroll; 
+  .waterfall {
+	background: url(../img/waterfall-new.jpg) no-repeat center center scroll; 
+  }
+
+   .mollyboat {
+  background: url(../img/boat-1.jpg) no-repeat center center scroll; 
+  }
+
+   .timboat {
+  background: url(../img/boat-2.jpg) no-repeat center center scroll; 
+  }
+
+   .beach {
+  background: url(../img/callout.jpg) no-repeat center center scroll; 
+  }
+
+  .lola {
+  background: url(../img/lola.jpg) no-repeat center center scroll; 
   }
 
   .map {
